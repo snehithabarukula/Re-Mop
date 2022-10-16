@@ -27,7 +27,7 @@ Re-mop is an automated model and hence works when the stimulation is trigerred i
 
 The transmitter (which generates sound using piezoelectric crystals) and the receiver are the two major parts of an ultrasonic sensor (which catches the sound after it has travelled to and from the target). The sensor monitors the amount of time that passes between the transmitter's sound emission and its contact with the receiver in order to determine the distance between the item and the sensor. D = 1/2 T x C ( D = distance, T= time, and C = sound speed of 343 metres per second) is the formula for this computation. For instance, if you place an ultrasonic sensor at a box and waited 0.030 seconds for the sound to return, the distance between the object would be as follows:
 
-                                                 D = 0.5 x 0.030 x 343
+                                                D = 0.5 x 0.030 x 343
 The LED glows when the objects is detected and beeps a sound. The water dispensing mechanism is attached at the top of the mop, which dispenses water periodically and the mop underneath is attached to motors. The motor rotates the circular disks and cleans the floor. 
 
 ## Future Implementations
